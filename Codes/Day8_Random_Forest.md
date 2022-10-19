@@ -1,6 +1,6 @@
 # Random Forests
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
+  <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%2033.png">
 </p>
 
 
