@@ -7,12 +7,12 @@ Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/
   <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%201.png">
 </p>
 ## Simple Linear Regression | Day 2
-Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day2_Simple_Linnear_Regression.md).
+Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day2_Simple_Linnear_Regression.md)
 <p align="center">
   <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%202.png">
 </p>
 ## Multiple Linear Regression | Day 3
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day3_Multiple_Linear_Regression.md)
 <p align="center">
   <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%203.png">
 </p>
@@ -25,14 +25,11 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what actually Logistic Regression is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
 Due to less time I will now be posting a infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and has already some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
-Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
-Due to less time I will now be posting an infographic on alternate days.
-Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
+
 
 ## Implementing Logistic Regression | Day 6
 Check out the Code [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day4_Logistic_Regression.md)
-@@ -54,12 +54,12 @@ It gives a detailed description of Logistic Regression. Do check it out.
-Got an intution on what SVM is and how it is used to solve Classification problem.
+
 
 ## SVM and KNN | Day 10
 Learned more about how SVM works and implementing the knn algorithm.
@@ -52,7 +49,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In scikit-learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+Check the code [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day6_SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about diffrent types of naive bayes classifer also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). first one in the playlist was Black Box Machine Learning. It gave the whole over view about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
