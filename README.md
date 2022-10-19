@@ -4,21 +4,21 @@ Get the datasets from [here](https://github.com/luthergeek/30-days-of-ML-code/tr
 ## Data PreProcessing | Day 1
 Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day1_Data_PreProcessing.md).
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%201.png">
 </p>
 ## Simple Linear Regression | Day 2
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day2_Simple_Linnear_Regression.md).
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%202.png">
 </p>
 ## Multiple Linear Regression | Day 3
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
+  <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%203.png">
 </p>
 ## Logistic Regression | Day 4
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
+  <img src="https://github.com/luthergeek/30-days-of-ML-code/blob/main/Info-graphs/Day%204.png">
 </p>
 
 ## Logistic Regression | Day 5
