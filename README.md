@@ -1,8 +1,8 @@
 # 30-days-of-ML-code
-100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
-Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
+100 Days of Machine Learning Coding as proposed by [Luther Pamba](https://github.com/llSourcell)
+Get the datasets from [here](https://github.com/luthergeek/30-days-of-ML-code/tree/main/datasets)
 ## Data PreProcessing | Day 1
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
+Check out the code from [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day1_Data_PreProcessing.md).
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
 </p>
