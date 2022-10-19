@@ -30,7 +30,7 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
+Check out the Code [here](https://github.com/luthergeek/30-days-of-ML-code/blob/main/Codes/Day4_Logistic_Regression.md)
 @@ -54,12 +54,12 @@ It gives a detailed description of Logistic Regression. Do check it out.
 Got an intution on what SVM is and how it is used to solve Classification problem.
 
